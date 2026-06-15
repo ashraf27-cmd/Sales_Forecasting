@@ -38,19 +38,11 @@ The dataset contains weekly sales records from multiple Walmart stores along wit
 
 Link: https://www.kaggle.com/datasets/mikhail1681/walmart-sales
 
-### Dataset Summary
-
-- Total Records: 6,435
-- Stores: 45
-- Time Period: February 2010 – October 2012
-- Missing Values: None
-- Duplicate Records: None
-
 ---
 
 ## Technologies Used
 
-###Python
+Python
 - Pandas
 - NumPy
 - Matplotlib & Seaborn
